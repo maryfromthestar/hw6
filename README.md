@@ -18,4 +18,4 @@
 ## Задание 3
 ![](https://github.com/maryfromthestar/hw6/blob/master/6%201.PNG)
 ![](https://github.com/maryfromthestar/hw6/blob/master/6%202.PNG)
-Резкий рост не отражается на диаграмме в Ngram viewer. Возможно, это потому, что в корпус sketch engine так же входят записи устной речи, а у Google база текстов объемнее.
+Резкий рост не отражается на диаграмме в Ngram viewer. Возможно, это потому, что в корпус BNC так же входят записи устной речи, а у Google база текстов объемнее.
